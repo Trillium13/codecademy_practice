@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+h1, h2{
+    text-align: center;  
+    font-weight: bold;
+}
+
+th {
+    background-color: mediumslateblue;
+    text-align: center;
+    font-weight: bold;
+}
+
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+table{
+    margin: auto;
+    width: 825px;
+}
+
+.tag {
+    background-color: aliceblue;
+    font-family: Courier, monospace;
+}
